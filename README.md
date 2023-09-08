@@ -5,14 +5,14 @@
 - ✏️ 짬짬히 배운걸 정리하는 목적으로 [블로그](https://jelee603.github.io)를 쓰고 있어요. 
 - 요가랑 필라테스도 해보고, 크로스핏도 해보고, 현재는 헬스에 재미가 생겨서 헬린이로 성장중이에요💪
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jelee603&layout=compact&theme=tokyonight)
+
 
 
  
 <!--
 **jelee603/jelee603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jelee603&layout=compact&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelee603&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
