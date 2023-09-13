@@ -5,6 +5,6 @@
 
 <div style="display: flex; height:180px">
  <a href="https://github.com/jelee603"><img align="center" style="height:180px; width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelee603&exclude_repo=jelee603.github.io&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a>
- <a href="https://github.com/jelee603"><img align="center" style="height:180px; width: 55%" src="https://github-readme-stats.vercel.app/api?username=jelee603&show_icons=true&include_all_commits=true&hide=stars,contribs&count_private=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="jelee's github stats" /></a>
+ <a href="https://github.com/jelee603"><img align="center" style="height:180px; width: 55%" src="https://github-readme-stats.vercel.app/api?username=jelee603&show_icons=true&include_all_commits=true&hide=stars&count_private=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="jelee's github stats" /></a>
 </div>
 <br/>
